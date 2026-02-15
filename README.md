@@ -1,4 +1,4 @@
-# RickRoll Redirector
+# RickRoller
 Prank your friends with this simple extension that redirects any YouTube videos to a RickRoll video
 
 ---
