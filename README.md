@@ -6,6 +6,8 @@ Prank your friends with this simple extension that redirects any YouTube videos 
 ## Chapters
 - [Installation](#installation)
 - [Note](#note)
+- [AI Usage and Stuff](#ai-usage-and-stuff)
+- [Links](#links)
 
 ---
 
@@ -20,3 +22,9 @@ Prank your friends with this simple extension that redirects any YouTube videos 
 ## Note: 
 This extension is for personal or educational purposes only.  
 Please don't install it on other people’s devices without their consent.
+
+## AI Usage and Stuff
+ChatGPT was used for debugging.
+
+## Links
+- [Flavortown Page](https://flavortown.hackclub.com/projects/13178)

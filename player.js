@@ -8,4 +8,4 @@ function Start(){
 }
 }
 
-setInterval(Start, 2000);
+setInterval(Start, 750);

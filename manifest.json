@@ -1,7 +1,7 @@
 {
-  "name": "RickRoll Redirector",
+  "name": "RickRoller",
   "description": "A simple open-source browser extension that redirects any YouTube video to a RickRoll video.",
-  "version": "1.0",
+  "version": "2.0",
   "manifest_version": 3,
   "content_scripts": [
     {
@@ -9,5 +9,8 @@
       "js": ["player.js"],
       "run_at": "document_idle"
     }
-  ]
+  ],
+  "action": {
+    "default_icon": "icon.png"
+  }
 }
